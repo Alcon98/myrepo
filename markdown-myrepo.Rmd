@@ -2,8 +2,9 @@
 title: "Markdown Trial with Myrepo"
 author: "Alan Constant"
 date: "02/11/2021"
-output: html_document:
-  keep_md: true
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
